@@ -10,7 +10,7 @@
 1. **编译程序**：
     确保你的系统上安装了适用于Windows的C编译器，如GCC或MSVC，然后编译源代码：
     ```bash
-    gcc -o Files_StrongBox Files_StrongBox.c
+    gcc -o Files_StrongBox main.c
     ```
 
 2. **运行程序**：
